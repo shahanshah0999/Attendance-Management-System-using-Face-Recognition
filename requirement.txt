@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pandas
+face-recognition
+flask
+sqlite3
