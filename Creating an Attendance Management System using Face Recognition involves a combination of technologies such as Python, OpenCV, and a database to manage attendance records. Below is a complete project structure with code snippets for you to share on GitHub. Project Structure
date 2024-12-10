@@ -1,9 +1,0 @@
-Attendance-Management-System/
-├── app/
-│   ├── __init__.py
-│   ├── face_recognition.py
-│   ├── database.py
-│   ├── main.py
-│   └── utils.py
-├── requirements.txt
-└── README.md
